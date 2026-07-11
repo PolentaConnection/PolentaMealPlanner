@@ -9,4 +9,4 @@ https://github.com/PolentaConnection/PolentaMealPlanner/releases/latest
 
 ## Product page
 
-https://polentaconnection.com/pages/product-polentamealplanner.html
+https://PolentaConnection.com/pages/product-polentamealplanner.html
